@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Free Lunch</name>
+	<authors>
+		<li>Al Sweigart</li>
+	</authors>
+	<packageId>AlSweigart.FreeLunch</packageId>
+	<url>https://github.com/asweigart/FreeMealRimWorldMod</url>
+	<modVersion>1.1.0</modVersion>
+
+	<supportedVersions>
+		<li>1.4</li>
+		<li>1.5</li>
+		<li>1.6</li>
+	</supportedVersions>
+
+	<description>Adds a "Cook free packaged survival meal" bill to vanilla stoves and campfires. Each meal costs zero resources and just one unit of work, so cooks produce them almost instantly.
+
+The intent is to remove food production as a factor in your game — useful for storytelling runs, mountain bases without dedicated cooks, or trying out ideas without the food chore. This is intentionally overpowered.
+
+Workbenches affected: Fueled Stove, Electric Stove, Campfire.
+
+Known limitations:
+- Only vanilla cooking workbenches gain the recipe. Modded stoves (Vanilla Cooking Expanded, Dub's Bad Hygiene kitchen units, VFE-Production ovens, etc.) are not supported.
+- Cooks gain no Cooking XP from this recipe — there's no skill in opening a packet.
+
+Who says there's no such thing as a free lunch?
+
+
+[ Español ]
+
+Añade una receta de "Cocinar comida de supervivencia gratuita" a las estufas y hogueras del juego base. Cada comida no cuesta recursos y solo requiere una unidad de trabajo, por lo que los cocineros las producen casi al instante.
+
+La intención es eliminar la producción de comida como factor en la partida — útil para partidas narrativas, bases en la montaña sin cocineros dedicados o para probar ideas sin tener que lidiar con la comida. Está intencionadamente desequilibrado.
+
+Bancos de trabajo afectados: Estufa de leña, Estufa eléctrica, Hoguera.
+
+Limitaciones conocidas:
+- Solo los bancos de cocina del juego base reciben la receta. Las estufas añadidas por mods (Vanilla Cooking Expanded, las cocinas de Dub's Bad Hygiene, los hornos de VFE-Production, etc.) no son compatibles.
+- Los cocineros no ganan experiencia de Cocina con esta receta — no hace falta habilidad para abrir un paquete.
+
+¿Quién dice que no existe una comida gratis?
+
+
+[ Русский ]
+
+Добавляет на ванильные плиты и костры рецепт «Приготовить бесплатный сухпаёк». Каждая порция требует ноль ресурсов и всего одну единицу работы, поэтому повара производят их почти мгновенно.
+
+Цель — убрать производство еды как фактор в игре. Полезно для нарративных прохождений, баз в горах без отдельного повара или для проверки идей без забот о еде. Это намеренно дисбалансно.
+
+Затронутые верстаки: дровяная плита, электроплита, костёр.
+
+Известные ограничения:
+— Рецепт получают только ванильные кухонные верстаки. Плиты из модов (Vanilla Cooking Expanded, кухни из Dub's Bad Hygiene, печи VFE-Production и т. д.) не поддерживаются.
+— Повара не получают опыт Кулинарии за этот рецепт — распечатать пакет — не великая наука.
+
+Кто сказал, что бесплатного обеда не бывает?
+
+
+[ Français ]
+
+Ajoute la recette « Cuisiner un repas de survie gratuit » aux poêles et feux de camp d'origine. Chaque repas ne coûte aucune ressource et ne demande qu'une seule unité de travail : les cuisiniers les produisent presque instantanément.
+
+L'idée est de supprimer la production de nourriture comme facteur de jeu — utile pour les parties narratives, les bases de montagne sans cuisinier dédié, ou simplement pour tester des idées sans se soucier de la nourriture. C'est volontairement déséquilibré.
+
+Établis affectés : poêle à bois, cuisinière électrique, feu de camp.
+
+Limitations connues :
+- Seuls les postes de cuisine du jeu de base reçoivent la recette. Les fours ajoutés par des mods (Vanilla Cooking Expanded, les cuisines de Dub's Bad Hygiene, les fours de VFE-Production, etc.) ne sont pas pris en charge.
+- Les cuisiniers ne gagnent aucune expérience de Cuisine avec cette recette — il n'y a aucun savoir-faire à ouvrir un sachet.
+
+Qui a dit qu'il n'y avait pas de repas gratuit ?
+
+
+[ Deutsch ]
+
+Fügt das Rezept „Kostenlose Notration kochen" zu den Vanilla-Öfen und Lagerfeuern hinzu. Jede Mahlzeit kostet keine Ressourcen und benötigt nur eine Arbeitseinheit — Köche stellen sie also nahezu sofort her.
+
+Das Ziel ist, die Nahrungsproduktion als Spielfaktor zu entfernen — nützlich für erzählerische Spielverläufe, Bergbasen ohne dedizierten Koch oder zum Ausprobieren von Ideen ohne den Aufwand der Nahrungsbeschaffung. Es ist absichtlich völlig überzogen.
+
+Betroffene Werkbänke: Holzofen, Elektroherd, Lagerfeuer.
+
+Bekannte Einschränkungen:
+- Nur die Vanilla-Kochstationen erhalten das Rezept. Öfen aus Mods (Vanilla Cooking Expanded, die Küchen aus Dub's Bad Hygiene, VFE-Production-Öfen usw.) werden nicht unterstützt.
+- Köche erhalten durch dieses Rezept keine Kochen-Erfahrung — eine Tüte aufzureißen ist keine Kunst.
+
+Wer sagt, dass es nichts umsonst gibt?
+
+
+[ Nederlands ]
+
+Voegt een 'Gratis overlevingsmaaltijd koken'-recept toe aan kachels en kampvuren uit het basisspel. Elke maaltijd kost geen grondstoffen en slechts één eenheid werk, dus koks maken ze vrijwel direct klaar.
+
+De bedoeling is om voedselproductie als factor uit je spel te halen — handig voor verhalende playthroughs, bergbases zonder vaste kok, of gewoon om ideeën uit te proberen zonder je druk te maken om voedsel. Het is met opzet overpowered.
+
+Beïnvloede werkbanken: Houtgestookt fornuis, Elektrisch fornuis, Kampvuur.
+
+Bekende beperkingen:
+- Alleen de kookwerkbanken uit het basisspel krijgen het recept. Kachels uit mods (Vanilla Cooking Expanded, de keukens uit Dub's Bad Hygiene, ovens uit VFE-Production, enzovoort) worden niet ondersteund.
+- Koks krijgen geen Koken-ervaring van dit recept — een pakje openscheuren is geen vaardigheid.
+
+Wie zegt dat er niet zoiets bestaat als een gratis maaltijd?
+
+
+[ 简体中文 ]
+
+为原版火炉和篝火添加"烹饪免费包装求生餐"配方。每份餐食不消耗任何资源，只需 1 点工作量，因此厨师几乎可以瞬间完成。
+
+本模组旨在彻底移除游戏中的食物生产环节——适合剧情向流程、没有专职厨师的山地基地，或者想专心尝试其他玩法又不想被做饭烦扰的玩家。本模组刻意设计得极度超模。
+
+受影响的工作台：燃木火炉、电力火炉、篝火。
+
+已知限制：
+- 仅原版烹饪工作台会获得该配方。模组添加的火炉（如 Vanilla Cooking Expanded、Dub's Bad Hygiene 的厨房单元、VFE-Production 的烤箱等）不受支持。
+- 厨师使用该配方不会获得烹饪经验——拆开包装并不需要技能。
+
+谁说天下没有免费的午餐？
+
+
+[ 日本語 ]
+
+バニラのかまどとたき火に「無料の携帯食料を作る」レシピを追加します。1食あたりの資材コストはゼロ、作業量も1だけなので、料理人はほぼ瞬時に作り上げます。
+
+このModは、食料生産をゲームの要素から取り除くことを目的としています。物語重視のプレイ、専属の料理人を置かない山岳拠点、食料管理を気にせずアイデアを試したい場面などに便利です。意図的にバランスを崩した内容です。
+
+対象の作業台：薪式かまど、電動かまど、たき火。
+
+既知の制限：
+- バニラの調理作業台のみがレシピを取得します。Modで追加されたかまど（Vanilla Cooking Expanded、Dub's Bad Hygiene のキッチンユニット、VFE-Production のオーブンなど）には対応していません。
+- このレシピでは料理人は料理経験値を得られません。袋を開けるだけにスキルなど要らないからです。
+
+タダ飯なんて無いと誰が言った？
+
+
+[ 한국어 ]
+
+바닐라 화로와 모닥불에 「무료 포장 생존식량 요리」 작업을 추가합니다. 한 끼당 자원이 전혀 들지 않고 작업량도 1뿐이라, 요리사가 거의 즉시 완성합니다.
+
+식량 생산이라는 요소를 게임에서 사실상 제거하기 위한 모드입니다. 스토리 위주 플레이, 전담 요리사가 없는 산악 기지, 또는 식량 걱정 없이 다양한 아이디어를 시험해 보고 싶을 때 유용합니다. 의도적으로 매우 강력합니다.
+
+영향을 받는 작업대: 장작 화로, 전기 화로, 모닥불.
+
+알려진 제한 사항:
+- 바닐라 요리 작업대에만 작업이 추가됩니다. 모드로 추가된 화로(예: Vanilla Cooking Expanded, Dub's Bad Hygiene 주방 유닛, VFE-Production 오븐 등)는 지원하지 않습니다.
+- 이 작업으로는 요리 경험치를 얻지 않습니다. 포장을 뜯는 데 기술이 필요하진 않으니까요.
+
+공짜 점심 같은 건 없다고 누가 그러던가요?</description>
+</ModMetaData>
