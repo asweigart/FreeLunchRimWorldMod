@@ -1,4 +1,4 @@
-# Free Lunch (FreeMealRimWorldMod)
+# Free Lunch
 
 A RimWorld mod that adds a zero-cost packaged survival meal bill to vanilla stoves and campfires. Intentionally overpowered — useful if you want to remove food production as a factor in your game.
 
